@@ -54,7 +54,7 @@ body {
 
 }
 .item1 {
-    background: url('http://upload.wikimedia.org/wikipedia/commons/5/5b/Roskilde_Festival_-_Orange_Stage_-_Bruce_Springsteen.jpg') no-repeat center center fixed;
+    background: url('../images/carousel1.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -70,7 +70,7 @@ body {
 }
 .item3 {
 
-    background: url('http://www.dsb.dk/Global/Kampagne/Top/Orangescene_Roskilde_festival1600x800.jpg') no-repeat center center fixed;
+    background: url('../images/carousel3.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
